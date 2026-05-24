@@ -25,5 +25,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+###
+
+<img src="https://raw.githubusercontent.com/gioMarquez/gioMarquez/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gioMarquez.gioMarquez)
