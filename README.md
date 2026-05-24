@@ -6,9 +6,13 @@
 🌱 I'm currently learning TypeScript and improving my backend skills with Node.js  
 👯 I'm looking to collaborate on open source JavaScript / Web projects  
 💬 Ask me about JavaScript, React, CSS, and web development in general  
-📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhovanny-marquez/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev.jhovanny@gmail.com)
 ⚡ Fun fact: I debug faster with coffee ☕
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jhovanny-marquez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhovanny-marquez/" height="30" width="40" /></a>
+<a href="https://instagram.com/giomarquez.mx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giomarquez.mx" height="30" width="40" /></a>
+</p>
 ---
 
 ### 🛠️ Tech Stack
