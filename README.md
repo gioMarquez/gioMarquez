@@ -25,13 +25,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![gioMarquez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gioMarquez&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gioMarquez&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gioMarquez.gioMarquez)
